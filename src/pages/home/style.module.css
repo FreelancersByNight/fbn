@@ -1,0 +1,12 @@
+.services:hover {
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #D5D8DC;
+    transition: 0.3s ease-in-out;
+}
+
+.profile {
+    width: 60%;
+    height: 60%;
+    margin: 0 auto;
+    display: block;
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Web Design",
+        "description": "Another functional tool which permits control over elements and words. The result can be copied or downloaded in plain text or HTML."
+    },
+    {
+        "title": "Responsive Design",
+        "description": "We build responsive and beautiful landing page website using new technologies like Tailwind Css and Bootstrap."
+    },
+    {
+        "title": "Web Development",
+        "description": "Not Lorem Ipsum provides real text based on specific industries. It looks like real text, it smells like real text. Your client will never change it."
+    },
+    {
+        "title": "Mobile Development",
+        "description": "We build an app that is available in IOS and Android platforms using new technologies."
+    }
+]
