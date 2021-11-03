@@ -1,0 +1,14 @@
+.active {
+    color: #00A7F2 !important;
+  
+    transition: 0.3s ease-in-out;
+}
+.active:hover {
+    color: white;
+}
+.body {
+    margin: 0 !important; 
+    font-weight: 600;
+    padding: 0 !important;
+}
+  
